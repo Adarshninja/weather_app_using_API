@@ -13,7 +13,7 @@ class WeatherPage extends StatefulWidget {
 
 class _WeatherPageState extends State<WeatherPage> {
  // api key
-final _weatherService = WeatherService('6b9320d1b0b24394c7454e09f80c2c71');
+final _weatherService = WeatherService('************************************');
 // ignore: unused_field
 Weather? _weather;
  // fetch weather 
